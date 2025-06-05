@@ -16,3 +16,7 @@ Greenden is a modern, fully responsive plant selling website designed using HTML
 HTML5 – Markup language for structuring web content
 
 Tailwind CSS – For styling and layout
+
+
+🌿 JavaScript in Greenden
+The Greenden project uses JavaScript to enhance interactivity and improve user experience
